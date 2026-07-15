@@ -16,3 +16,4 @@ html 5, css
 
 ## How to access the website
 
+**Paste it into the browser: https://dil2324.github.io/coffee-landing-frontend/**
